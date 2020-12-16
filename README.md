@@ -1,6 +1,6 @@
 # Nim-game_java
  implement a simple variant of the game of Nim in Java. Nim is a two-player game, and the rules of the version used
-here are as follows:
+here are as follows:\par
 • The game begins with a number of objects (e.g., stones placed on a table).
 • Each player takes turns removing stones from the table.
 • On each turn, a player must remove at least one stone. In addition, there is an upper bound on the
